@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Autism Matters unit 4 ip", "..\..\..\OneDrive - Careered - AIU\ITCO 381-2003 B-01\Autism Matters unit 4 ip\.vs\Autism Matters unit 4 ip\", "{C00E75B1-CAFB-422F-8A65-00F44D23A9B1}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_63349"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\OneDrive - Careered - AIU\ITCO 381-2003 B-01\Autism Matters unit 4 ip\.vs\Autism Matters unit 4 ip\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_63349\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_63349"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\OneDrive - Careered - AIU\ITCO 381-2003 B-01\Autism Matters unit 4 ip\.vs\Autism Matters unit 4 ip\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_63349\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "63349"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C00E75B1-CAFB-422F-8A65-00F44D23A9B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C00E75B1-CAFB-422F-8A65-00F44D23A9B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {493A5FE3-94F3-45B1-9B42-C29C2537C01F}
+	EndGlobalSection
+EndGlobal
